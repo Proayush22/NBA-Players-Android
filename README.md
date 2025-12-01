@@ -6,6 +6,12 @@ The app supports portrait and landscape modes, allows users to select a player f
 ## 📱 Features
 ## 🔹 Player List
 
+<img width="300" height="2400" alt="image" src="https://github.com/user-attachments/assets/ebe71ccf-2633-4556-ad6b-a4c719c1e06e" />
+<img width="300" height="2400" alt="image" src="https://github.com/user-attachments/assets/fcf162fb-6474-45ad-bfc3-7626ac7968bc" />
+<img width="500" height="1080" alt="image" src="https://github.com/user-attachments/assets/53bcd846-2694-4072-8595-a6e12688c5d2" />
+<img width="500" height="1080" alt="image" src="https://github.com/user-attachments/assets/e9384ea7-f4b2-4923-9f63-ab2fee9fab25" />
+
+
 Scrollable list of NBA players with:
 
 Name
